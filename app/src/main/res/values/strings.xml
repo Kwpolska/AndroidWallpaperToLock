@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wallpaper to Lock</string>
+    <string name="intro">To copy the home screen wallpaper to the lock screen, press the button. Android requires full storage permissions to be granted to the app to read the current wallpaper.</string>
+    <string name="button_text">Copy home wallpaper to lock screen</string>
+    <string name="status_blank"/>
+    <string name="status_permission_required">⛔ Permission to access storage is required to read the wallpaper. Try again after granting the permission.</string>
+    <string name="status_wait">⏳ Please wait…</string>
+    <string name="status_ok">✅ Wallpaper set successfully.</string>
+    <string name="status_failed">🛑 Failed to set wallpaper: %1$s</string>
+    <string name="permission_toast">Reading your wallpaper requires access to all files.</string>
+</resources>
